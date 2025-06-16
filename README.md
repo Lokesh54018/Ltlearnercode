@@ -21,6 +21,14 @@ This Uber Data Analytics project showcases a modern data engineering pipeline bu
 
 **Contribute to this project here:**https://github.com/Lokesh54018/Ltlearnercode/edit/main/README.md
 
+## Dataset used
+Uber NYC Rides Dataset – Contains detailed trip records including pickup datetime, pickup location, and dispatching base, used to analyze ride volume and trends.
+
+NYC Weather Dataset – Provides historical weather metrics like temperature, precipitation, and wind speed to examine external factors affecting ride demand.
+
+US Holidays & Events Dataset – Lists national holidays and local NYC events, helping to correlate spikes or drops in Uber activity with specific dates.
+Original Dat source - data/uber_data.csv
+
 ## Data Model
 ![Data model](data_model.jpeg) 
 
